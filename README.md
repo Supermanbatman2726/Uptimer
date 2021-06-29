@@ -19,10 +19,10 @@ Coming Soon....
  - E.T.C
 
 # Links
-[Demo](/)
-[GuitarHost](https://guitarhost.tech)
-[Bot List](https://list.guitarhost.tech)
-[Dashboard](https://control.guitarhost.tech)
-[Panel](https://panel.guitarhost.tech)
-[TOS](https://guitarhost.tech/tos)
-[Privacy Policy](https://guitarhost.tech/privacy-police)
+[Demo](/)<br>
+[GuitarHost](https://guitarhost.tech)<br>
+[Bot List](https://list.guitarhost.tech)<br>
+[Dashboard](https://control.guitarhost.tech)<br>
+[Panel](https://panel.guitarhost.tech)<br>
+[TOS](https://guitarhost.tech/tos)<br>
+[Privacy Policy](https://guitarhost.tech/privacy-police) 
