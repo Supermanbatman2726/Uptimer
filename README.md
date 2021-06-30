@@ -5,6 +5,8 @@ An Open Sourced Uptime Monitor Linked Through Discord, You Can Monitor Your Site
 
 # Screenshorts
 ![Home Page](/screenshot/preview1.PNG?raw=true "Home Page")
+![Add Monitor](/screenshot/preview2.PNG?raw=true "Add Monitor")
+![Profile](/screenshot/preview3.PNG?raw=true "Profile")
 
 # Features
  - Web Dashboard
