@@ -1,0 +1,23 @@
+{
+    "bot": {
+        "prefix": "!",
+        "id": "BOT ID",
+        "secret": "BOT SECRET",
+        "token": "BOT TOKEN"
+    },
+    "dashboard": {
+        "port": 3000,
+        "url": "http://localhost:3000",
+        "callback": "http://localhost:3000/callback",
+        "discord_server_ID": "842461679546531890",
+        "owners": [
+            "OWNERS"
+        ],
+        "arc": {
+            "enabled": "false",
+            "code": ""
+        }
+    },
+    "mongodb": "mongodb://localhost:3000/guitarhost",
+    "discord": "https://discord.gg/guitarhost"
+}
