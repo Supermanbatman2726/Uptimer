@@ -4,7 +4,7 @@ An Open Sourced Uptime Monitor Linked Through Discord, You Can Monitor Your Site
 <a href="https://discord.gg/guitarhost"><img src="https://invidget.switchblade.xyz/guitarhost"/></a>
 
 # Screenshorts
-Coming Soon....
+![Home Page](/screenshot/preview1.png?raw=true "Home Page")
 
 # Features
  - Web Dashboard
